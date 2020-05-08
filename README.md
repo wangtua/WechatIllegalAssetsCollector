@@ -1,0 +1,2 @@
+# WechatIllegalAssetsCollector
+基于WechatSogou开发的违规公众号检索工具，用于企业违规资产收集。
